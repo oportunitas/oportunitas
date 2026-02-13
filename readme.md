@@ -49,21 +49,52 @@ I'm a **Computer Science** student at **Institut Teknologi Sepuluh Nopember (ITS
 ## &nbsp;Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
-<a href="https://github.com/oportunitas/barunastra_internship-yolov8-websocket-gui">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oportunitas&repo=barunastra_internship-yolov8-websocket-gui&theme=github_dark_dimmed&hide_border=true" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/oportunitas/name_to_generation_prediction_website">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oportunitas&repo=name_to_generation_prediction_website&theme=github_dark_dimmed&hide_border=true" />
-</a>
+**[🛥️ YOLOv8 WebSocket GUI](https://github.com/oportunitas/barunastra_internship-yolov8-websocket-gui)**
 
-<a href="https://github.com/oportunitas/standalones">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oportunitas&repo=standalones&theme=github_dark_dimmed&hide_border=true" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/oportunitas/tic_tac_toe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=oportunitas&repo=tic_tac_toe&theme=github_dark_dimmed&hide_border=true" />
-</a>
+Real-time WebSocket interface for autonomous surface vehicle YOLOv8 vision inference
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/oportunitas/barunastra_internship-yolov8-websocket-gui?style=flat-square&color=e3b341)
+
+</td>
+<td width="50%" align="center">
+
+**[🔮 Name Generation Predictor](https://github.com/oportunitas/name_to_generation_prediction_website)**
+
+Predict birth generation based on names — full-stack web application
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Stars](https://img.shields.io/github/stars/oportunitas/name_to_generation_prediction_website?style=flat-square&color=e3b341)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+**[⚡ Standalones](https://github.com/oportunitas/standalones)**
+
+Collection of standalone algorithms and data structures
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Stars](https://img.shields.io/github/stars/oportunitas/standalones?style=flat-square&color=e3b341)
+
+</td>
+<td width="50%" align="center">
+
+**[🎮 Tic Tac Toe](https://github.com/oportunitas/tic_tac_toe)**
+
+Message-queue-based multi-terminal game
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Stars](https://img.shields.io/github/stars/oportunitas/tic_tac_toe?style=flat-square&color=e3b341)
+
+</td>
+</tr>
+</table>
 </div>
 
 <br/>

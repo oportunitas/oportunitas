@@ -1,21 +1,19 @@
+<!-- Theme: Caelestia tonalspot · dark · primary #9dcfd9 (snapshot 2026-05-12) -->
+
 <div align="center">
 
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:415a77&height=220&section=header&text=Taib%20Izzat%20Samawi&fontSize=38&fontColor=e0e1dd&fontAlignY=35&desc=Computer%20Science%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Robotics&descSize=15&descColor=778da9&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0f10,100:275963&height=140&section=header&text=Taib%20Izzat%20Samawi&fontSize=34&fontColor=dde7ea&fontAlignY=45&desc=Computer%20Science%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Robotics&descSize=14&descColor=a3adaf&descAlignY=70&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=778DA9&center=true&vCenter=true&width=620&height=35&lines=CS+Student+at+Institut+Teknologi+Sepuluh+Nopember;Autonomous+Perceptions+%26+Control+UI+%40+Barunastra;Building+Real-Time+Computer+Vision+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=9dcfd9&center=true&vCenter=true&width=620&height=35&lines=CS+Valedictorian+%40+ITS+Surabaya;CV+%2F+Robotics+%40+Barunastra+ITS;Real-Time+Computer+Vision+Systems)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taib/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taibizzat165@gmail.com)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taib_izzat_samawi)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=oportunitas&color=415a77&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-131b1c?style=flat-square&logo=linkedin&logoColor=9dcfd9&labelColor=131b1c)](https://www.linkedin.com/in/taib/)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-131b1c?style=flat-square&logo=gmail&logoColor=9dcfd9&labelColor=131b1c)](mailto:taibizzat165@gmail.com)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-131b1c?style=flat-square&logo=instagram&logoColor=9dcfd9&labelColor=131b1c)](https://instagram.com/taib_izzat_samawi)
 
 </div>
 
@@ -23,12 +21,10 @@
 
 ## &nbsp;About Me
 
-I'm a **Computer Science** student at **Institut Teknologi Sepuluh Nopember (ITS)** in Surabaya, Indonesia. As the Autonomous Perceptions & Control UI Engineer at **[Barunastra ITS](https://github.com/Barunastra-ITS)**, I develop real-time computer vision systems and control interfaces for autonomous surface vehicles.
+I graduated as the **Computer Science** valedictorian from **Institut Teknologi Sepuluh Nopember (ITS)** in Surabaya, Indonesia. I work on real-time perception for autonomous surface vehicles at **[Barunastra ITS](https://github.com/Barunastra-ITS)**.
 
-- 🔬&nbsp; Currently working on my **undergraduate thesis**
-- 🛥️&nbsp; Building real-time perception pipelines for **autonomous boats**
-- 💡&nbsp; Passionate about **computer vision**, **robotics**, and **systems programming**
-- 🏆&nbsp; Competitive programming enthusiast on **Codeforces**
+- 🏆&nbsp; Champion of **RoboBoat 2025**
+- 💡&nbsp; Interested in **autonomous** systems, navigation, and perception
 
 <br/>
 
@@ -36,113 +32,20 @@ I'm a **Computer Science** student at **Institut Teknologi Sepuluh Nopember (ITS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp,c,ts,php,dart,html,css,latex&perline=9" />
+![Python](https://img.shields.io/badge/Python-131b1c?style=flat-square&logo=python&logoColor=9dcfd9)
+![C++](https://img.shields.io/badge/C%2B%2B-131b1c?style=flat-square&logo=cplusplus&logoColor=9dcfd9)
+![C](https://img.shields.io/badge/C-131b1c?style=flat-square&logo=c&logoColor=9dcfd9)
+![TypeScript](https://img.shields.io/badge/TypeScript-131b1c?style=flat-square&logo=typescript&logoColor=9dcfd9)
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=flask,pytorch,opencv,ros,docker,git,linux,vscode&perline=8" />
-
-</div>
-
-<br/>
-
-## &nbsp;Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-
-**[🛥️ YOLOv8 WebSocket GUI](https://github.com/oportunitas/barunastra_internship-yolov8-websocket-gui)**
-
-Real-time WebSocket interface for autonomous surface vehicle YOLOv8 vision inference
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Stars](https://img.shields.io/github/stars/oportunitas/barunastra_internship-yolov8-websocket-gui?style=flat-square&color=e3b341)
-
-</td>
-<td width="50%" align="center">
-
-**[🔮 Name Generation Predictor](https://github.com/oportunitas/name_to_generation_prediction_website)**
-
-Predict birth generation based on names — full-stack web application
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Stars](https://img.shields.io/github/stars/oportunitas/name_to_generation_prediction_website?style=flat-square&color=e3b341)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-**[⚡ Standalones](https://github.com/oportunitas/standalones)**
-
-Collection of standalone algorithms and data structures
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Stars](https://img.shields.io/github/stars/oportunitas/standalones?style=flat-square&color=e3b341)
-
-</td>
-<td width="50%" align="center">
-
-**[🎮 Tic Tac Toe](https://github.com/oportunitas/tic_tac_toe)**
-
-Message-queue-based multi-terminal game
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Stars](https://img.shields.io/github/stars/oportunitas/tic_tac_toe?style=flat-square&color=e3b341)
-
-</td>
-</tr>
-</table>
-</div>
-
-<br/>
-
-## &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=oportunitas&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" height="180"/>&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oportunitas&layout=compact&theme=github_dark_dimmed&hide_border=true" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=oportunitas&background=22272e&border=22272e&ring=539bf5&fire=e3b341&currStreakNum=adbac7&sideNums=adbac7&currStreakLabel=768390&sideLabels=768390&dates=636e7b&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=oportunitas&theme=darkhub&no-bg=true&no-frame=true&column=-1&margin-w=15" />
-
-</div>
-
-<br/>
-
-## &nbsp;Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oportunitas&bg_color=22272e&color=adbac7&line=539bf5&point=778da9&area=true&area_color=1b263b&hide_border=true" width="100%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oportunitas/oportunitas/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oportunitas/oportunitas/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/oportunitas/oportunitas/output/github-snake-dark.svg" width="100%" />
-</picture>
+![PyTorch](https://img.shields.io/badge/PyTorch-131b1c?style=flat-square&logo=pytorch&logoColor=9dcfd9)
+![OpenCV](https://img.shields.io/badge/OpenCV-131b1c?style=flat-square&logo=opencv&logoColor=9dcfd9)
+![ROS](https://img.shields.io/badge/ROS-131b1c?style=flat-square&logo=ros&logoColor=9dcfd9)
+![Docker](https://img.shields.io/badge/Docker-131b1c?style=flat-square&logo=docker&logoColor=9dcfd9)
+![Linux](https://img.shields.io/badge/Linux-131b1c?style=flat-square&logo=linux&logoColor=9dcfd9)
 
 </div>
 
 <br/>
 
 <!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,100:415a77&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:275963,100:0a0f10&height=60&section=footer" width="100%"/>

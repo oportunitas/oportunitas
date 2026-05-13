@@ -47,10 +47,10 @@ I graduated as the **Computer Science** valedictorian from **Institut Teknologi 
 <!-- Row 3: Stats · Top Languages -->
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=oportunitas&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=131b1c&title_color=9dcfd9&text_color=dde7ea&icon_color=9dcfd9&ring_color=9dcfd9" height="170" alt="Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=oportunitas&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=131b1c&title_color=9dcfd9&text_color=dde7ea&icon_color=9dcfd9&ring_color=9dcfd9" height="170" alt="Stats" />
 </td>
 <td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oportunitas&layout=compact&hide_border=true&hide_title=true&bg_color=131b1c&title_color=9dcfd9&text_color=dde7ea&langs_count=8" height="170" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oportunitas&layout=compact&hide_border=true&hide_title=true&bg_color=131b1c&title_color=9dcfd9&text_color=dde7ea&langs_count=8" height="170" alt="Top Languages" />
 </td>
 </tr>
 

@@ -1,21 +1,41 @@
 <!-- Theme: Caelestia tonalspot · dark · primary #9dcfd9 (snapshot 2026-05-12) -->
 
-<div align="center">
+<table>
+<tr>
+<td rowspan="2" width="28%" align="center">
+<img src="https://github.com/oportunitas.png" width="260" alt="Taib Izzat Samawi" />
+</td>
+<td colspan="2" width="52%" align="left">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0f10,100:275963&height=140&section=header&text=Taib%20Izzat%20Samawi&fontSize=34&fontColor=dde7ea&fontAlignY=45&desc=Computer%20Science%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Robotics&descSize=14&descColor=a3adaf&descAlignY=70&animation=fadeIn" width="100%"/>
+## Taib Izzat Samawi
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=9dcfd9&center=true&vCenter=true&width=620&height=35&lines=CS+Valedictorian+%40+ITS+Surabaya;CV+%2F+Robotics+%40+Barunastra+ITS;Real-Time+Computer+Vision+Systems)](https://git.io/typing-svg)
+**CS Valedictorian @ ITS Surabaya  ·  CV / Robotics @ Barunastra ITS**
 
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-131b1c?style=flat-square&logo=linkedin&logoColor=9dcfd9&labelColor=131b1c)](https://www.linkedin.com/in/taib/)&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-131b1c?style=flat-square&logo=gmail&logoColor=9dcfd9&labelColor=131b1c)](mailto:taibizzat165@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-131b1c?style=flat-square&logo=linkedin&logoColor=9dcfd9&labelColor=131b1c)](https://www.linkedin.com/in/taib/)
+[![Gmail](https://img.shields.io/badge/Gmail-131b1c?style=flat-square&logo=gmail&logoColor=9dcfd9&labelColor=131b1c)](mailto:taibizzat165@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-131b1c?style=flat-square&logo=instagram&logoColor=9dcfd9&labelColor=131b1c)](https://instagram.com/taib_izzat_samawi)
 
-</div>
+</td>
+<td rowspan="2" width="20%" align="center" valign="middle">
+
+### 🏆
+
+**RoboBoat**
+**2025**
+
+<sub>Champion</sub>
+
+</td>
+</tr>
+<tr>
+<td width="26%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=oportunitas&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=131b1c&title_color=9dcfd9&text_color=dde7ea&icon_color=9dcfd9&ring_color=9dcfd9&card_width=320" height="155" alt="Stats" />
+</td>
+<td width="26%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oportunitas&layout=compact&hide_border=true&hide_title=true&bg_color=131b1c&title_color=9dcfd9&text_color=dde7ea&card_width=320&langs_count=6" height="155" alt="Top Languages" />
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -44,8 +64,3 @@ I graduated as the **Computer Science** valedictorian from **Institut Teknologi 
 ![Linux](https://img.shields.io/badge/Linux-131b1c?style=flat-square&logo=linux&logoColor=9dcfd9)
 
 </div>
-
-<br/>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:275963,100:0a0f10&height=60&section=footer" width="100%"/>

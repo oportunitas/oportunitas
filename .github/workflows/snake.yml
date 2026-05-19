@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: oportunitas
           outputs: |
-            dist/github-snake.svg?palette=9dcfd9,1e2729,131b1c,275963,8fc1cb,b9ecf7
-            dist/github-snake-dark.svg?palette=9dcfd9,1e2729,131b1c,275963,8fc1cb,b9ecf7
+            dist/github-snake.svg?color_snake=%23275963&color_dots=%23ebf4f6,%23c8e2e7,%239dcfd9,%235fa3b0,%23275963
+            dist/github-snake-dark.svg?color_snake=%239dcfd9&color_dots=%231e2729,%23275963,%234a8a96,%2373b3bf,%23b9ecf7
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

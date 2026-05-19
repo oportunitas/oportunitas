@@ -74,7 +74,11 @@ I graduated as the **Computer Science** valedictorian from **Institut Teknologi 
 <!-- Row 5: Snake animation (full width) -->
 <tr>
 <td colspan="4" align="center">
-<img src="https://raw.githubusercontent.com/oportunitas/oportunitas/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oportunitas/oportunitas/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oportunitas/oportunitas/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/oportunitas/oportunitas/output/github-snake.svg" width="100%" alt="Contribution snake animation" />
+</picture>
 </td>
 </tr>
 
